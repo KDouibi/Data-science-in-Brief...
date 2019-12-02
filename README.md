@@ -1,2 +1,2 @@
 # Data-science-in-Brief...
-This project shares basic steps, to begin with Data Science. From data to Decision... what are secrets of Data Scientist?
+This project shares basic steps, to begin with, Data Science. From data to Decision... what are secrets of a Data Scientist?
